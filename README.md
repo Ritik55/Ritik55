@@ -18,7 +18,6 @@ Big Data Processing (Spark, Hadoop) • Containerization & Orchestration (Docker
 
 🏆 Achievements:
 ⭐ Consistent 4.9/5 rating across freelance platforms
-🥇 Top-rated Upwork seller within 6 months
 🚀 Delivered high-impact solutions for startups to enterprises
 
 🔍 Current Focus:
