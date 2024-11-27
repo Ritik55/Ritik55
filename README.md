@@ -34,3 +34,5 @@ Transforming complex data into powerful business solutions.
 • Building data-centric MVPs
 
 From startups to enterprises, I deliver high-impact, scalable solutions tailored to your needs. Let's connect and drive your business forward through innovative data solutions.
+
+![](https://komarev.com/ghpvc/?username=Ritik55&color=blue&style=flat-square&label=Profile+views)
