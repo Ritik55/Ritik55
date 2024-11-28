@@ -11,7 +11,7 @@ Transforming complex data into powerful business solutions.
 • DevOps & CI/CD
 
 💼 Professional Highlights:
-• 200+ successful projects with 4.9/5 client satisfaction
+• 200+ successful projects with 4.7/5 client satisfaction
 • Reduced data processing time by 70% for e-commerce leaders
 • Optimized system efficiency by 40% through strategic refactoring
 
