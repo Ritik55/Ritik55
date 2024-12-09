@@ -1,27 +1,27 @@
-Data Extraction Specialist | Web Scraping Expert
+## Data Extraction Specialist | Web Scraping Expert
 
 Transforming complex data challenges into efficient solutions for businesses.
 
 🚀 Core Expertise:
-Python Web Scraping (BeautifulSoup, Scrapy, Selenium)
-Data Extraction & Processing
-Process Automation & API Integrations
+- Python Web Scraping (BeautifulSoup, Scrapy, Selenium)
+- Data Extraction & Processing
+- Process Automation & API Integrations
 
 💼 Professional Highlights:
-200+ projects with a 4.7/5 star rating
-Reduced manual data entry by up to 90%
-Delivered clean, structured data consistently
+- 200+ projects with a 4.7/5 star rating
+- Reduced manual data entry by up to 90%
+- Delivered clean, structured data consistently
 
 🔥 Technical Skills:
-Data Mining & Analysis
-Cloud Scraping (AWS, Azure)
-Task Automation (Google Workspace, Zapier)
+- Data Mining & Analysis
+- Cloud Scraping (AWS, Azure)
+- Task Automation (Google Workspace, Zapier)
 
 🔍 Current Focus:
-Real-time social media data extraction
-E-commerce competitor monitoring
+- Real-time social media data extraction
+- E-commerce competitor monitoring
 
-💡 Let’s Collaborate:
-I deliver tailored data extraction solutions to help your business thrive. Let’s connect!
+💡 Let's Collaborate:
+I deliver tailored data extraction solutions to help your business thrive. Let's connect!
 
 ![](https://komarev.com/ghpvc/?username=Ritik55&base=5839&color=blue&style=flat-square&label=Profile+Views)
