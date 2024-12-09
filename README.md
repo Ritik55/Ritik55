@@ -8,7 +8,7 @@ Data Extraction & Processing
 Process Automation & API Integrations
 
 💼 Professional Highlights:
-100+ projects with a 4.9/5 star rating
+200+ projects with a 4.7/5 star rating
 Reduced manual data entry by up to 90%
 Delivered clean, structured data consistently
 
