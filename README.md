@@ -3,8 +3,6 @@
 🚀 Transforming Data into Insights
 I am a passionate Data Scientist and Web Scraping Expert with over 5 years of freelance experience. I specialize in extracting valuable insights from complex data to help businesses thrive.
 
-📧 Contact: ritikdodai5@gmail.com
-
 🔧 Core Skills:
 - 🕸️ Web Scraping: Custom solutions using Python (BeautifulSoup, Scrapy, Selenium)
 - 📊 Data Analysis: Uncovering hidden patterns and trends
@@ -18,5 +16,6 @@ I combine technical expertise with a deep understanding of business needs to del
 🤝 Let's Collaborate!
 Explore my repositories to see examples of my work, and feel free to reach out if you have a project in mind. Together, we can unlock the full potential of your data!
 
+📧 Contact: ritikdodai5@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Ritik55&base=5839&color=blue&style=flat-square&label=Profile+Views)
